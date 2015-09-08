@@ -1,0 +1,3 @@
+[submodule "static-discipline-demo"]
+	path = static-discipline-demo
+	url = https://github.com/drhodes/static-discipline-demo.git
